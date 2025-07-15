@@ -63,10 +63,5 @@ streamlit run app.py
 - Koordinatla alan seçin, kutu çizin, yakınlaştırın.
 - Demo fatura ve örnek JSON ile test edin.
 
-## Ekran Görüntüleri / Screenshots
-- ![Ana Ekran](assets/screenshot_main.png)
-- ![RegEx Yönetimi](assets/screenshot_regex.png)
-- ![Koordinat Seçimi](assets/screenshot_coord.png)
-
 ## Lisans / License
 MIT 
